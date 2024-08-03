@@ -152,7 +152,7 @@ Resposta Esperada
     }
 ]
 ```
-# 3. Obter uma Conta Específic
+# 3. Obter uma Conta Específica
 Método: GET
 
 URL: http://localhost:3000/accounts/{id}
